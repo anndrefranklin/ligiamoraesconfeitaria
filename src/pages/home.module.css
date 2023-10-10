@@ -1,0 +1,23 @@
+.container{
+    text-align: center; /* Alinha o conteúdo ao centro horizontalmente */
+}
+
+.img{
+    width: 250px;
+    height:250px;
+    padding-bottom: 0.5rem;
+}
+
+.description{
+    padding: 1.5rem;
+
+}
+
+.button{
+    background-color: var(--Marron);
+    color: var(--Yellow);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
